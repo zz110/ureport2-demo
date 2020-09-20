@@ -1,0 +1,17 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "com.zz.hello.ureport2.provider.MySQLProvider",
+      "name": "ureport.mysql.provider",
+      "type": "com.zz.hello.ureport2.provider.MySQLProvider"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "com.zz.hello.ureport2.provider.MySQLProvider",
+      "name": "ureport.mysql.provider.report-files",
+      "type": "java.util.List<com.bstek.ureport.provider.report.ReportFile>"
+    }
+  ]
+}
